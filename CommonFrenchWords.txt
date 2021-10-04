@@ -1,0 +1,42 @@
+Bonjour	Good Morning, Hello
+Au revoir	Goodbye
+Oui	Yes, Yeah
+Non	No
+Merci	Thanks, Thank you
+Merci beaucoup	Thank you very much
+Bien	Good
+Bienvenue	Welcome
+Fille	Girl
+Garçon	Boy
+Femme	Woman
+Homme	Man
+Amour	Love
+Français	French
+S’il vous plaît	Please
+Bonsoir	Good evening
+Bonne Nuit	Good Night
+Excusez-moi	Excuse Me
+De Rien	Your welcome (casual,informal)
+Je vous en prie	"You're welcome (formal)"
+Temps	Time
+Jour	Day
+Monde	World
+Monsieur	Mister, Gentleman
+Raison	Reason
+Mademoiselle	Miss, Unmarried woman
+Madame	Married woman, older woman
+Beau	Handsome
+Belle	Beautiful
+Chat	Cat
+Chien	Dog
+Fort	Strong
+Je suis désolé(e)	"I'm sorry"
+Comment vous appelez-vous?	"What's your name?"
+Parlez-vous anglais?	Do you speak english?
+Je m’appelle	My name is
+Comment allez-vous?	How are you doing
+Quelle heure est-il?	What time is it?
+Pouvez-vous m’aider?	Can you help me?
+Combien ça coûte?	How much is this?
+Je t’aime	I love you?
+Pour oublier	To forget
