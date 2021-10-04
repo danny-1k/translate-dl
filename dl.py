@@ -15,7 +15,7 @@ wordf = args.words
 lang = args.lang
 
 if lang not in gtts.lang.tts_langs():
-    print('Supported Languages : ',''.join([i for i in gtts.lang.tts_langs()]))
+    print('Supported Languages : ',gtts.lang.tts_langs())
 if 'mp3' not in os.listdir():
     print('Creating mp3 folder ...')
     os.mkdir('mp3')
